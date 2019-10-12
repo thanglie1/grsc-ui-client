@@ -1,0 +1,9 @@
+[submodule "MessagingAppFramework"]
+	path = MessagingAppFramework
+	url = https://github.com/sepcon/MessagingAppFramework.git
+[submodule "gears-service"]
+	path = gears-service
+	url = https://github.com/thanglie1/gears-service.git
+[submodule "qtdemo"]
+	path = qtdemo
+	url = https://github.com/thanglie1/qtdemo.git
