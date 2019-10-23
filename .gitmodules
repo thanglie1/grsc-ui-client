@@ -7,3 +7,6 @@
 [submodule "qtdemo"]
 	path = qtdemo
 	url = https://github.com/thanglie1/qtdemo.git
+[submodule "ui-free-tool"]
+	path = ui-free-tool
+	url = https://github.com/thanglie1/ui-free-tool.git
